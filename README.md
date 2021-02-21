@@ -15,4 +15,4 @@ Other things I want to add and achieve:
   - developing a more advanced UI
   - creating an encrypted password system
 
-I am very proud of this project because I have achived more than I was asked to do and really feel I've learned the basics.
+I am very proud of this project because I have achived more than I was asked to do and I really feel I've learned the basics.
