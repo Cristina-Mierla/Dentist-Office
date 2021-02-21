@@ -1,0 +1,18 @@
+10/9/120|Extraction|Richard|300|1|100
+15/0/119|Bonding|Richard|400|1|101
+22/3/120|Gum Surgery|Rodrighez|150|1|102
+13/8/121|Root Canals|Dominic|500|-1|103
+21/11/118|Bonding|Dominic|300|-1|104
+7/11/120|Braces|Patricia|550|0|105
+4/0/123|Repairs|Ghery|700|0|104
+21/4/121|Whitening|Ramirez|1100|-1|110
+30/5/117|Gum Surgery|Dominic|600|1|109
+23/10/119|Root Canals|Patricia|500|1|102
+21/11/123|Routine Visit|Mirabela|800|0|112
+16/1/122|Implants|Rodrighez|1400|0|114
+19/2/119|Fillings|Ghery|750|-1|116
+22/3/120|Extraction|Dimitrie|400|1|120
+10/11/120|Implants|Dominic|200|0|113
+10/11/120|Fillings|Ramirez|550|-1|122
+7/0/121|Root Canals|Ramirez|100|0|119
+8/2/119|Root Canals|Ramirez|100|0|119
