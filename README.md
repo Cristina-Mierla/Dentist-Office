@@ -14,5 +14,3 @@ Other things I want to add and achieve:
   - a database for the users and for clients
   - developing a more advanced UI
   - creating an encrypted password system
-
-I am very proud of this project because I have achived more than I was asked to do and I really feel I've learned the basics.
